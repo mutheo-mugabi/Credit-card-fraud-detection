@@ -11,4 +11,10 @@ To run the notebooks, please download the dataset manually from Kaggle and place
 - `Version1.ipynb`: First version using various models
 - `Version2.ipynb`: Additional version using logistic regression and a structured pipeline
 
+## About the Author
+Hi, I’m Mutheo, a postgraduate student in data science at the university of the Witwatersrand with a growing interest in solving real-world problems using machine learning and analytics. This project is part of my journey to build hands-on experience in fraud detection, data modeling, and Python-based ML workflows.
+
+Feel free to connect, collaborate or share feedback.
+Connect with me on [LinkedIN](https://www.linkedin.com/in/mutheo-mugabi-26174427b)
+
 
